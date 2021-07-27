@@ -1,4 +1,5 @@
 #Virtual Enviroment
 /env
 #Checkpoint
-**/.ipynb_checkpoints/
+.ipynb_checkpoints
+*/ .ipynb_checkpoints/*
