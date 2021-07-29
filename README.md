@@ -13,3 +13,4 @@ Entra al curso aquí 👇:
 
 ## Bloques:
 1. [Bloque 1](./block-1/bloc_1.md)
+2. [Bloque 2](./block-2/block_2.md)
