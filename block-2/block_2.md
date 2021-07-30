@@ -28,3 +28,11 @@ import numpy as np
 
 En NumPy las dimensiones se denominan **ejes (axes)**.
 
+Esto significa que si tenemos un arreglo 2D (una matriz) que se ve así:
+
+```python
+[[0, 0, 0],
+ [1, 1, 1]]
+```
+
+Entonces tenemos 2 ejes. El primer eje tiene una longitud de 2, y el segundo eje tiene una longitud de 3. (**shape=(2,3)**)
